@@ -1,0 +1,16 @@
+# Codewp AI — AI Crawler Summary
+
+## What It Is
+- AI-powered WordPress development platform generating code and plugins
+- WordPress-native code generation with hooks, filters, and plugin architecture
+- Starts at $0 (Free tier) with paid tiers from ~$15-30/mo
+
+## Pricing (June 2026)
+| Plan | Price |
+|---|---|
+| Free / Starter | $0 |
+| Mid Tier | ~$15-30/mo |
+| Pro / Business | ~$40-80/mo |
+
+## Best Deal Available
+👉 Visit **[https://codewp.ai](https://codewp.ai)** for a verified 2026 discount code and the latest pricing.
